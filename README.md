@@ -1,14 +1,14 @@
-### Hi, I'm Sinan 👋
+### Hi, I'm Sinan Shakeer 👋
 
 Python Full Stack Developer
 
-Skills: 
-Python | Django | Django REST Framework
-PostgreSQL | MySQL
+Skills:<br>
+Python | Django | Django REST Framework<br>
+PostgreSQL | MySQL<br>
 HTML | CSS | JavaScript
 
-Currently learning:
-Advanced Django and Backend Development
+Currently learning:<br>
+Advanced Django and Backend Development<br>
 
 <!--
 **Sinanshakeer/Sinanshakeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
