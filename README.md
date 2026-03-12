@@ -1,5 +1,14 @@
-### Hi there 👋
-- 🌱 I’m currently learning ...
+Hi, I'm Sinan 👋
+
+Python Full Stack Developer
+
+Skills:
+Python | Django | Django REST Framework
+PostgreSQL | MySQL
+HTML | CSS | JavaScript
+
+Currently learning:
+Advanced Django and Backend Development
 
 <!--
 **Sinanshakeer/Sinanshakeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
