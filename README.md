@@ -2,7 +2,7 @@
 
 Python Full Stack Developer
 
-Skills:
+Skills: 
 Python | Django | Django REST Framework
 PostgreSQL | MySQL
 HTML | CSS | JavaScript
