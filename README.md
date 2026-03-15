@@ -1,6 +1,6 @@
 ### Hi, I'm Sinan Shakeer 👋
 
-Python Full Stack Developer
+Full Stack Developer
 
 Skills:<br>
 Python | Django | Django REST Framework<br>
